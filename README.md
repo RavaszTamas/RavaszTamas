@@ -18,7 +18,7 @@ I started coding in 2014 in the confines of my school usinng C/C++. During this 
 # Education
 - Currently studying Applied Artifical Intelligence at [@UBB](https://www.cs.ubbcluj.ro/) 
 - I graduated from [@UBB](https://www.cs.ubbcluj.ro/) with a bachelors degree as a software engineer in 2021.
-- Studied C/C++ in high school
+- Studied C/C++ in high school at [@MÁG](https://www.mag.ro)
 
 # Relevant hobbies
 
