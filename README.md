@@ -23,4 +23,4 @@ I started coding in 2014 in the confines of my school usinng C/C++. During this 
 # Relevant hobbies
 
 - I am currently make 3D minies using an Elegoo Saturn 4 (old and kranky at this point but it serves me well)
-- Once a month I enter [CodinGame](https://www.codingame.com/) and for some reason 8 hours in a blink of an eye.
+- Once a month I enter [CodinGame](https://www.codingame.com/) and for some reason 8 hours pass in a blink of an eye.
