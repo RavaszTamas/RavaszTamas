@@ -20,7 +20,7 @@ I started coding in 2014 in the confines of my school usinng C/C++. During this 
 - I started my career as an intern and then associate IT consultant at [@.msg](https://www.msg-systems.ro/en/) where worked as a Full-stack software developer on various projects manily utilizing Angular as frontend and Java Spring as backend. During the internship I managed the cloud application stack on AWS.
 
 # Education
-- Currently studying Applied Artifical Intelligence at [@UBB](https://www.cs.ubbcluj.ro/) 
+- Graduated Msc Applied Artifical Intelligence at [@UBB](https://www.cs.ubbcluj.ro/) 
 - I graduated from [@UBB](https://www.cs.ubbcluj.ro/) with a bachelors degree as a software engineer in 2021.
 - Studied C/C++ in high school at [@MÁG](https://www.mag.ro)
 
